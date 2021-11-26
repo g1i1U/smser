@@ -1,0 +1,7 @@
+{
+  "name": "smser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
